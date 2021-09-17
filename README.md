@@ -13,7 +13,7 @@ Projeto de um aplicativo mobile para localizar cfop (código fiscal de operaçõ
     <blockquote>
        React native instalado<br>
        Npm do node para caso precise rodar algum pacote<br>
-       É fundamental que a<a href="https://github.com/cesar99144/ApiCFOP-Laravel" target="_blank">api</a> do projeto esteja instalada em seu computador rodando no localhost:3030. Caso queira rodar a api em outra porta, altere a url do localhost na pasta <code>src\services\api.js</code>
+       É fundamental que a <a href="https://github.com/cesar99144/ApiCFOP-Laravel" target="_blank">api</a> do projeto esteja instalada em seu computador rodando no localhost:3030. Caso queira rodar a api em outra porta, altere a url do localhost na pasta <code>src\services\api.js</code>
     </blockquote>
 
 <h3>Instalação: </h3>
@@ -36,6 +36,6 @@ Projeto de um aplicativo mobile para localizar cfop (código fiscal de operaçõ
 
 <h3>Algumas imagens do projeto: </h3>
 
-<img src="imagensProjeto/home.png">
+<img style="max-width: 100px" src="imagensProjeto/home.png">
 <img src="imagens/ResultadoConsulta.png"><br>
 <img src="imagens/ResultadoConsulta2.png"><br>
