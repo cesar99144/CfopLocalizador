@@ -36,6 +36,6 @@ Projeto de um aplicativo mobile para localizar cfop (código fiscal de operaçõ
 
 <h3>Algumas imagens do projeto: </h3>
 
-<img style="max-width: 100px" src="imagensProjeto/home.png">
+<img src="imagensProjeto/home.png =100x20">
 <img src="imagens/ResultadoConsulta.png"><br>
 <img src="imagens/ResultadoConsulta2.png"><br>
